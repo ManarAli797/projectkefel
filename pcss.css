@@ -1,0 +1,84 @@
+/* style table*/
+table{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1200px;
+    direction: rtl;
+}
+ul{
+    height: 100%;
+    padding: 35px;
+    margin: 19px;
+    
+}
+ul a{
+    text-decoration: none;
+}
+ ul li{
+    text-decoration-line: none;
+    text-decoration: none;
+    text-decoration-skip-ink: none;
+    text-decoration-line: none;
+     font-size: 18px;
+     margin: 14px;
+     padding-top: 5px;
+ }
+ 
+
+ 
+/* style page htm */
+ .texti  img{
+    width: 250px;
+    height: 250px;
+    float: left ;
+    margin: 10px;
+
+}
+ .texti p{
+    font-size: 22px ;
+    text-align: justify ;
+     padding: 18px ;
+     direction: rtl ;
+     color: darkblue
+ }
+
+
+/* style pagenews*/
+ .textim1{
+    height: 190px;
+    width: 100% ;
+    margin-top: 50px;
+ }
+ #id_head{
+    margin: 0px;
+    color: darkred;
+ }
+ #id_date{
+    margin: 0px; 
+    color: #ff8a00;
+    font-size: 12px;
+}
+.textim1 img{
+    float: right;
+    margin-left: 17px;
+    height: 195px ;
+    width: 190px
+
+}
+.textim1 p{
+    padding: 10px;
+    direction: rtl;
+    text-align: justify ;
+}
+
+
+/* style radio in page admin*/ 
+.div1 .radi{
+    clear: both;
+    font-size: 22px;
+    position: relative;
+    padding-right: 260px;
+    top: 280px;
+
+    
+ }
